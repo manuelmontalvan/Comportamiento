@@ -1,4 +1,14 @@
-## DISEÑO Y ARQUITECTURA 
+## Comportamiento
+
+
+¿Qué es la comunicación en las organizaciones?
+La comunicación en las organizaciones tiene que ver con la difusión de mensajes con el fin de transmitir, puertas adentro, los logros y requerimientos a los miembros que la conforman. Aunque también se comunica puertas afuera y, en este caso, sirve para que la sociedad también conozca cuales son las misiones, visiones y metas de cualquier organización.
+En general, el encargado de la comunicación organizacional es el departamento de Recursos humanos. Vale destacar que no todos los mensajes son para todos los colaboradores, así como tampoco se comunican de igual manera en todos los estratos de la organización. Los mensajes varían de acuerdo nivel de la pirámide al que se quiere comunicar: no es lo mismo para quienes ocupan cargos jerárquicos que para quienes están en la base.
+Importancia de la comunicación en las organizaciones
+La comunicación organizacional permite conocer el desempeño de los departamentos.
+La comunicación en las organizaciones es trascendental. El alcance de los objetivos de la firma, en buena parte, depende de cómo sea la comunicación.
+A través de ella, los colaboradores se mantienen al tanto de cuáles son los requerimientos y los objetivos alcanzados. Al mismo tiempo, la comunicación les permite conocer a los empleados cómo fue su evolución dentro de la firma y cómo han sido los desempeños de cada uno de los departamentos.
+Puertas afuera, la comunicación organizacional es la herramienta que ayuda a las compañías a elaborar la imagen que quieren que la sociedad tenga de ellas mismas.
 
 <div>Teachable Machine Image Model</div>
 <button type="button" onclick="init()">Start</button>
